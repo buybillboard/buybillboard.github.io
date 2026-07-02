@@ -1,0 +1,582 @@
+[
+  {
+    "title": "Minneapolis",
+    "position": [
+      44.99180040867376,
+      -93.23739247632147
+    ],
+    "billboards": [
+      {
+        "subtitle": "Solana",
+        "xUrl": "https://x.com/BillboardCTO/status/1995041480894026172"
+      }
+    ]
+  },
+  {
+    "title": "Dallas",
+    "position": [
+      32.8066624,
+      -96.8468865
+    ],
+    "billboards": [
+      {
+        "subtitle": "Jakey",
+        "xUrl": "https://x.com/BillboardCTO/status/2000118758640427058"
+      },
+      {
+        "subtitle": "Mars",
+        "xUrl": "https://x.com/BillboardCTO/status/2000168539052032191"
+      }
+    ]
+  },
+  {
+    "title": "Oregon",
+    "position": [
+      45.5039125,
+      -122.5400593
+    ],
+    "billboards": [
+      {
+        "subtitle": "BILLBOARD",
+        "xUrl": "https://x.com/BillboardCTO/status/1993944385323716914"
+      }
+    ]
+  },
+  {
+    "title": "Hollywood",
+    "position": [
+      34.101646,
+      -118.3295535
+    ],
+    "billboards": [
+      {
+        "subtitle": "Ansem",
+        "xUrl": "https://x.com/BillboardCTO"
+      }
+    ]
+  },
+  {
+    "position": [
+      34.168142,
+      -118.376338
+    ],
+    "title": "LA - Hollywood",
+    "billboards": [
+      {
+        "subtitle": "FTP",
+        "xUrl": "https://x.com/BillboardCTO/status/1999726953750798738"
+      },
+      {
+        "subtitle": "Santa",
+        "xUrl": "https://x.com/BillboardCTO/status/1999724813263442031"
+      }
+    ]
+  },
+  {
+    "position": [
+      33.764365,
+      -84.39638
+    ],
+    "title": "Atlanta",
+    "billboards": [
+      {
+        "subtitle": "Phoenix",
+        "xUrl": "https://x.com/BillboardCTO/status/2069536404296647032"
+      },
+      {
+        "subtitle": "Shadow",
+        "xUrl": "https://x.com/BillboardCTO/status/2069532714999452103"
+      },
+      {
+        "subtitle": "Solana",
+        "xUrl": "https://x.com/BillboardCTO/status/1993290906360070551"
+      },
+      {
+        "subtitle": "Solana & Solflare",
+        "xUrl": "https://x.com/BillboardCTO/status/1990011382218264994"
+      },
+      {
+        "subtitle": "Solana & Solflare",
+        "xUrl": "https://x.com/BillboardCTO/status/1990019685677719802"
+      },
+      {
+        "subtitle": "Pump.Fun",
+        "xUrl": "https://x.com/BillboardCTO/status/1989841237604757986"
+      },
+      {
+        "subtitle": "Shadowfolio",
+        "xUrl": "https://x.com/BillboardCTO/status/1989836359587262936"
+      },
+      {
+        "subtitle": "Store.Fun",
+        "xUrl": "https://x.com/BillboardCTO/status/1989976899364532417"
+      },
+      {
+        "subtitle": "Solana",
+        "xUrl": "https://x.com/BillboardCTO/status/1994174894842544347"
+      },
+      {
+        "subtitle": "Panda",
+        "xUrl": "https://x.com/BillboardCTO/status/2005802636377813110"
+      },
+      {
+        "subtitle": "Nothing 67 Retire",
+        "xUrl": "https://x.com/BillboardCTO/status/2005800787331764349"
+      },
+      {
+        "subtitle": "Solana",
+        "xUrl": "https://x.com/BillboardCTO/status/2005921559488110963"
+      },
+      {
+        "subtitle": "Normie",
+        "xUrl": "https://x.com/BillboardCTO/status/2009061225108574235"
+      },
+      {
+        "subtitle": "BountyWork",
+        "xUrl": "https://x.com/BillboardCTO/status/2062949819690242372"
+      },
+      {
+        "subtitle": "Solana",
+        "xUrl": "https://x.com/BillboardCTO/status/1994934124079886683"
+      },
+      {
+        "subtitle": "Director",
+        "xUrl": "https://x.com/BillboardCTO/status/1994891957857128740"
+      },
+      {
+        "subtitle": "Nothing",
+        "xUrl": "https://x.com/BillboardCTO/status/1993472882358530542"
+      },
+      {
+        "subtitle": "Santa",
+        "xUrl": "https://x.com/BillboardCTO/status/1999614620923830712"
+      },
+      {
+        "subtitle": "Santa",
+        "xUrl": "https://x.com/BillboardCTO/status/1999609759113318746"
+      }
+    ]
+  },
+  {
+    "title": "LA",
+    "position": [
+      33.773167,
+      -117.908222
+    ],
+    "billboards": [
+      {
+        "subtitle": "Phoenix",
+        "xUrl": "https://x.com/BillboardCTO/status/2069474752779977134"
+      },
+      {
+        "subtitle": "SolAngeles",
+        "xUrl": "https://x.com/BillboardCTO/status/2070186815449972854"
+      }
+    ]
+  },
+  {
+    "title": "LA",
+    "position": [
+      33.87438,
+      -118.2303949
+    ],
+    "billboards": [
+      {
+        "subtitle": "Backpack",
+        "xUrl": "https://x.com/BillboardCTO/status/2070049676124991655"
+      },
+      {
+        "subtitle": "Solana",
+        "xUrl": "https://x.com/BillboardCTO/status/1993586813794226187"
+      },
+      {
+        "subtitle": "Seeker",
+        "xUrl": "https://x.com/BillboardCTO/status/2064607376662048978"
+      },
+      {
+        "subtitle": "Cupsey",
+        "xUrl": "https://x.com/BillboardCTO/status/2064049581071987001"
+      },
+      {
+        "subtitle": "AIBounty",
+        "xUrl": "https://x.com/samsn0w/status/2064594864298180920"
+      },
+      {
+        "subtitle": "Grok",
+        "xUrl": "https://x.com/BillboardCTO/status/2070059205885571383"
+      },
+      {
+        "subtitle": "LA",
+        "xUrl": "https://x.com/BillboardCTO/status/2072446559904522697?s=20"
+      }
+    ]
+  },
+  {
+    "title": "Phoenix",
+    "position": [
+      33.4479776,
+      -112.0735802
+    ],
+    "billboards": [
+      {
+        "subtitle": "BILLBOARD",
+        "xUrl": "https://x.com/BillboardCTO/status/1992140532374720978"
+      },
+      {
+        "subtitle": "GBACK",
+        "xUrl": "https://x.com/BillboardCTO/status/1991969728496373826"
+      }
+    ]
+  },
+  {
+    "title": "Chicago",
+    "position": [
+      41.964436,
+      -87.749645
+    ],
+    "billboards": [
+      {
+        "subtitle": "BILLBOARD",
+        "xUrl": "https://x.com/BillboardCTO/status/1990113734786769277"
+      },
+      {
+        "subtitle": "KITTEN",
+        "xUrl": "https://x.com/kandiixkitten/status/1990137367219343707"
+      }
+    ]
+  },
+  {
+    "position": [
+      33.918567887314616,
+      -118.3265214658723
+    ],
+    "title": "SpaceX, LA",
+    "billboards": [
+      {
+        "xUrl": "https://x.com/BillboardCTO/status/1987168234681082056",
+        "subtitle": "Phantom"
+      },
+      {
+        "subtitle": "Kitkat",
+        "xUrl": "https://x.com/BillboardCTO/status/1987135398389178799"
+      },
+      {
+        "xUrl": "https://x.com/ftponsol/status/1984096068297183716",
+        "subtitle": "FTP"
+      },
+      {
+        "xUrl": "https://x.com/SolanaSensei/status/1984585682354905380",
+        "subtitle": "Solana Sensei"
+      },
+      {
+        "xUrl": "https://x.com/BillboardCTO/status/1984764044314636540",
+        "subtitle": "Solana"
+      },
+      {
+        "xUrl": "https://x.com/BillboardCTO/status/1987269892999963091",
+        "subtitle": "Jupiter Mobile"
+      },
+      {
+        "xUrl": "https://x.com/BillboardCTO/status/1984553503428325441",
+        "subtitle": "Jupiter"
+      },
+      {
+        "xUrl": "https://x.com/BillboardCTO/status/1984890475908600149",
+        "subtitle": "Mars"
+      },
+      {
+        "xUrl": "https://x.com/BillboardCTO/status/1984506376379396346",
+        "subtitle": "Kitkat"
+      },
+      {
+        "xUrl": "https://x.com/ftponsol/status/1981631756332925143",
+        "subtitle": "FTP"
+      },
+      {
+        "subtitle": "Gork",
+        "xUrl": "https://x.com/BillboardCTO/status/2029143553717268498"
+      },
+      {
+        "subtitle": "Elon",
+        "xUrl": "https://x.com/BillboardCTO/status/2038007403585687807"
+      },
+      {
+        "subtitle": "Buttcoin",
+        "xUrl": "https://x.com/BillboardCTO/status/2026750237071516043"
+      }
+    ]
+  },
+  {
+    "position": [
+      39.7435292,
+      -105.0112227
+    ],
+    "title": "Denver-2",
+    "billboards": [
+      {
+        "subtitle": "Solana",
+        "xUrl": "https://x.com/BillboardCTO/status/1983270538563989891"
+      },
+      {
+        "subtitle": "Jupiter",
+        "xUrl": "https://x.com/BillboardCTO/status/1983288731084960251"
+      },
+      {
+        "subtitle": "Retire & Troll",
+        "xUrl": "https://x.com/_Shadow36/status/1982420811119251867"
+      },
+      {
+        "subtitle": "Listen-RS",
+        "xUrl": "https://x.com/BillboardCTO/status/1982200321188278754"
+      },
+      {
+        "subtitle": "ChillHouse",
+        "xUrl": "https://x.com/BillboardCTO/status/1984311451691946184"
+      },
+      {
+        "subtitle": "UnclaimedSOL",
+        "xUrl": "https://x.com/BillboardCTO/status/1984042488815088061"
+      },
+      {
+        "subtitle": "Solana - Neiro",
+        "xUrl": "https://x.com/BillboardCTO/status/1985822635150725156"
+      },
+      {
+        "subtitle": "Solana Starter Pack",
+        "xUrl": "https://x.com/BillboardCTO/status/1985828561748443482"
+      },
+      {
+        "subtitle": "Backpack",
+        "xUrl": "https://x.com/BillboardCTO/status/1985838157515157617"
+      }
+    ]
+  },
+  {
+    "title": "Denver",
+    "position": [
+      39.745412,
+      -104.995115
+    ],
+    "billboards": [
+      {
+        "subtitle": "TBC",
+        "xUrl": "https://x.com/BillboardCTO/status/1991569269633761449"
+      },
+      {
+        "subtitle": "Jupiter",
+        "xUrl": "https://x.com/BillboardCTO/status/1991462324214043072"
+      },
+      {
+        "subtitle": "DripShop",
+        "xUrl": "https://x.com/BillboardCTO/status/1991285016010137935"
+      },
+      {
+        "subtitle": "Flash Trade",
+        "xUrl": "https://x.com/BillboardCTO/status/1991430032020136284"
+      },
+      {
+        "subtitle": "Director",
+        "xUrl": "https://x.com/BillboardCTO/status/1991275564125073469"
+      },
+      {
+        "subtitle": "Solana",
+        "xUrl": "https://x.com/solana/status/1981299179281351086"
+      },
+      {
+        "subtitle": "Shadow - Retire",
+        "xUrl": "https://x.com/_Shadow36/status/1986796675692667389"
+      },
+      {
+        "subtitle": "Terminal/Padre",
+        "xUrl": "https://x.com/BillboardCTO/status/1986777722798977523"
+      },
+      {
+        "subtitle": "PumpFun Orangie",
+        "xUrl": "https://x.com/BillboardCTO/status/1986953896271712548"
+      },
+      {
+        "subtitle": "PumpFun Banner",
+        "xUrl": "https://x.com/BillboardCTO/status/1986805982757036091"
+      },
+      {
+        "subtitle": "Solana MuskZ",
+        "xUrl": "https://x.com/BillboardCTO/status/1986591877257212214"
+      },
+      {
+        "subtitle": "Solflare",
+        "xUrl": "https://x.com/mauricedotxyz/status/1982826984582578629"
+      },
+      {
+        "subtitle": "Pump.Fun",
+        "xUrl": "https://x.com/BillboardCTO/status/1982206938839486480"
+      },
+      {
+        "subtitle": "Troll & Retire",
+        "xUrl": "https://x.com/BillboardCTO/status/1981006889023660090"
+      }
+    ]
+  },
+  {
+    "title": "East LA",
+    "position": [
+      34.01201228708492,
+      -117.94054925767087
+    ],
+    "billboards": [
+      {
+        "subtitle": "SSX",
+        "xUrl": " https://x.com/uselesschad/status/1988319962105323750"
+      },
+      {
+        "subtitle": "TBC",
+        "xUrl": "https://x.com/BillboardCTO/status/1988330689033629872"
+      }
+    ]
+  },
+  {
+    "position": [
+      42.33295888234951,
+      -71.06421610703109
+    ],
+    "title": "Boston",
+    "billboards": [
+      {
+        "xUrl": "https://x.com/BillboardCTO/status/1981021037614584004",
+        "subtitle": "TBC"
+      }
+    ]
+  },
+  {
+    "position": [
+      25.768744766537285,
+      -80.1921603192171
+    ],
+    "title": "Miami",
+    "billboards": [
+      {
+        "subtitle": "Nick, Choose Rich",
+        "xUrl": "https://x.com/chooserich/status/1983372419634253830"
+      },
+      {
+        "subtitle": "Bullish",
+        "xUrl": "https://x.com/samsnowww/status/1983457591276749145"
+      },
+      {
+        "subtitle": "Jupiter",
+        "xUrl": "https://x.com/BillboardCTO/status/1983357315848843772"
+      }
+    ]
+  },
+  {
+    "title": "Miami-2",
+    "position": [
+      25.8116875,
+      -80.193153
+    ],
+    "billboards": [
+      {
+        "subtitle": "Solana - Tuky",
+        "xUrl": "https://x.com/Tukytuky_/status/1986404637230977085"
+      }
+    ]
+  },
+  {
+    "title": "Central US",
+    "position": [
+      36.381763283749265,
+      -93.89207843996316
+    ],
+    "billboards": [
+      {
+        "subtitle": "Trevv",
+        "xUrl": "https://x.com/BillboardCTO/status/1988681099783057585"
+      }
+    ]
+  },
+  {
+    "position": [
+      26.4483889,
+      -80.0939082
+    ],
+    "title": "Florida",
+    "billboards": [
+      {
+        "subtitle": "AltcoinGordon",
+        "xUrl": "https://x.com/BillboardCTO/status/1981854206932947067"
+      }
+    ]
+  },
+  {
+    "position": [
+      39.7428611,
+      -105.0031305
+    ],
+    "title": "Denver-3",
+    "billboards": [
+      {
+        "subtitle": "Keanu Sleaze",
+        "xUrl": "https://x.com/BillboardCTO/status/2010359891316117598"
+      }
+    ]
+  },
+  {
+    "position": [
+      40.84381,
+      -73.837622
+    ],
+    "title": "New York",
+    "billboards": [
+      {
+        "subtitle": "Normie",
+        "xUrl": "https://x.com/BillboardCTO/status/2009808997440991452"
+      },
+      {
+        "subtitle": "Pengu",
+        "xUrl": "https://x.com/BillboardCTO/status/2017312565672521871"
+      }
+    ]
+  },
+  {
+    "position": [
+      50.059694,
+      14.40975
+    ],
+    "title": "Prague",
+    "billboards": [
+      {
+        "subtitle": "Solana",
+        "xUrl": "https://x.com/BillboardCTO/status/2019140453686505832"
+      },
+      {
+        "subtitle": "Jupiter",
+        "xUrl": "https://x.com/BillboardCTO/status/2018793840375935023"
+      }
+    ]
+  },
+  {
+    "position": [
+      51.51289256170577,
+      -0.04167213258875542
+    ],
+    "title": "London",
+    "billboards": [
+      {
+        "subtitle": "Samba",
+        "xUrl": "https://x.com/sambacapybara/status/2049927311852441794"
+      }
+    ]
+  },
+  {
+    "position": [
+      51.51168079466933,
+      -0.027891589435896275
+    ],
+    "title": "London-2",
+    "billboards": [
+      {
+        "subtitle": "Samba",
+        "xUrl": "https://x.com/sambacapybara/status/2046908577923702949"
+      }
+    ]
+  }
+]
