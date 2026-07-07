@@ -72,6 +72,37 @@
       }
     ]
   },
+   {
+    "position": [
+     33.91596689364341, -118.32633010733264
+    ],
+    "title": "LA - MegaBillboard",
+    "billboards": [
+      {
+        "subtitle": "Ansem - The Black Bull",
+        "xUrl": "https://x.com/BillboardCTO/status/2074382628933779533"
+      },
+      {
+        "subtitle": "The Black Bull - Ansem",
+        "xUrl": "https://x.com/BillboardCTO/status/2074382628933779533"
+      }
+    ]
+  },
+  {
+    "position": [
+     33.759898566849564, -84.39177553948016
+    ],
+    "title": "Atlanta Waffle House",
+    "billboards": [
+      {
+        "subtitle": "Percolator",
+        "xUrl": "https://x.com/BillboardCTO/status/2074386398874910739"
+      },
+      {
+        "subtitle": "Ansem - the Black Bull",
+        "xUrl": "https://x.com/BillboardCTO/status/2074386398874910739"
+      }]
+  },
   {
     "position": [
       33.764365,
