@@ -1,4 +1,16 @@
 [
+    {
+    "title": "Australia/Melbourne",
+    "position": [
+    -37.817919993942944, 145.1209741558224
+    ],
+    "billboards": [
+      {
+        "subtitle": "Solana ANZ",
+        "xUrl": "https://x.com/BillboardCTO/status/2075180656284311569"
+      }
+    ]
+  },
   {
     "title": "Minneapolis",
     "position": [
@@ -101,7 +113,12 @@
       {
         "subtitle": "Ansem - the Black Bull",
         "xUrl": "https://x.com/BillboardCTO/status/2074386398874910739"
-      }]
+      },
+     {
+        "subtitle": "Peponk",
+        "xUrl": "https://x.com/BillboardCTO/status/2075117048359772477"
+      },
+    ]
   },
   {
     "position": [
@@ -113,6 +130,10 @@
       {
         "subtitle": "Phoenix",
         "xUrl": "https://x.com/BillboardCTO/status/2069536404296647032"
+      },
+       {
+        "subtitle": "Manlet",
+        "xUrl": "https://x.com/BillboardCTO/status/2075117048359772477"
       },
       {
         "subtitle": "Shadow",
