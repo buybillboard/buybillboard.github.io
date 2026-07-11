@@ -254,14 +254,7 @@
         "subtitle": "SolAngeles",
         "xUrl": "https://x.com/BillboardCTO/status/2070186815449972854"
       },
-      {
-        "subtitle": "Solangeles SpaceX",
-        "xUrl": "https://x.com/BillboardCTO/status/2073453422171369809"
-      },
-      {
-        "subtitle": "BullPen",
-        "xUrl": "https://x.com/BillboardCTO/status/2073906832070910294"
-      }
+    
       
     ]
   },
@@ -272,6 +265,19 @@
       -118.2303949
     ],
     "billboards": [
+             {
+        "subtitle": "Shadowfolio",
+        "xUrl": "https://x.com/BillboardCTO/status/2072804558922002519"
+      },
+         
+           {
+        "subtitle": "Solangeles SpaceX",
+        "xUrl": "https://x.com/BillboardCTO/status/2073453422171369809"
+      },
+      {
+        "subtitle": "BullPen",
+        "xUrl": "https://x.com/BillboardCTO/status/2073906832070910294"
+      },
       {
         "subtitle": "Backpack",
         "xUrl": "https://x.com/BillboardCTO/status/2070049676124991655"
