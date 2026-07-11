@@ -1,4 +1,16 @@
 [
+     {
+    "title": "Times Square NYC",
+    "position": [
+   40.76405996733202, -73.98269032764841
+    ],
+    "billboards": [
+      {
+        "subtitle": "Cupsey",
+        "xUrl": "https://x.com/BillboardCTO/status/2075589868558704756"
+      }
+    ]
+  },
     {
     "title": "Australia/Melbourne",
     "position": [
@@ -64,7 +76,7 @@
     "billboards": [
       {
         "subtitle": "Ansem",
-        "xUrl": "https://x.com/BillboardCTO"
+        "xUrl": "https://x.com/BillboardCTO/status/2071971969730289938"
       }
     ]
   },
@@ -98,6 +110,19 @@
       {
         "subtitle": "The Black Bull - Ansem",
         "xUrl": "https://x.com/BillboardCTO/status/2074382628933779533"
+      },
+         {
+        "subtitle": "BluePen",
+        "xUrl": "https://x.com/BillboardCTO/status/2074382628933779533"
+      }
+        ,
+         {
+        "subtitle": "PumpFun",
+        "xUrl": "https://x.com/BillboardCTO/status/2075564474627506351"
+      },
+         {
+        "subtitle": "PumpFun",
+        "xUrl": "https://x.com/BillboardCTO/status/2075582323274244285"
       }
     ]
   },
@@ -487,7 +512,7 @@
     ]
   },
   {
-    "title": "East LA",
+    "title": "East California",
     "position": [
       34.01201228708492,
       -117.94054925767087
@@ -495,7 +520,7 @@
     "billboards": [
       {
         "subtitle": "SSX",
-        "xUrl": " https://x.com/uselesschad/status/1988319962105323750"
+        "xUrl": "https://x.com/uselesschad/status/1988319962105323750"
       },
       {
         "subtitle": "TBC",
