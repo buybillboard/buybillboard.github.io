@@ -103,6 +103,11 @@
     ],
     "title": "LA - MegaBillboard",
     "billboards": [
+               {
+        "subtitle": "Jotchua LJC",
+        "xUrl": "https://x.com/BillboardCTO/status/2076170300702556453"
+      },
+        
       {
         "subtitle": "Ansem - The Black Bull",
         "xUrl": "https://x.com/BillboardCTO/status/2074382628933779533"
@@ -264,6 +269,21 @@
       -118.2303949
     ],
     "billboards": [
+          {
+        "subtitle": "PumpFun",
+        "xUrl": "https://x.com/BillboardCTO/status/2076315411998544040"
+      },
+
+                      {
+        "subtitle": "Solana",
+        "xUrl": "https://x.com/BillboardCTO/status/2076264740657995914"
+      },
+
+                      {
+        "subtitle": "Solana facing SpaceX",
+        "xUrl": "https://x.com/BillboardCTO/status/2076264740657995914"
+      },
+         
              {
         "subtitle": "Shadowfolio",
         "xUrl": "https://x.com/BillboardCTO/status/2072804558922002519"
