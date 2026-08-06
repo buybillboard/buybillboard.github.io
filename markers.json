@@ -102,12 +102,33 @@
      33.91596689364341, -118.32633010733264
     ],
     "title": "LA - MegaBillboard",
-    "billboards": [
+    "billboards": [   {
+        "subtitle": "LMAO!",
+        "xUrl": "https://x.com/BillboardCTO/status/2085252017694355788"
+      }, {
+        "subtitle": "TripleT",
+        "xUrl": "https://x.com/BillboardCTO/status/2077641042086555715"
+      },{
+        "subtitle": "Solana Summer",
+        "xUrl": "https://x.com/BillboardCTO/status/2077650923636007174"
+      }, {
+        "subtitle": "Solana",
+        "xUrl": "https://x.com/BillboardCTO/status/2077794455050932411"
+      }, {
+        "subtitle": "Solana",
+        "xUrl": "https://x.com/BillboardCTO/status/2077794455050932411"
+      },{
+        "subtitle": "Buttcoin",
+        "xUrl": "https://x.com/BillboardCTO/status/2085304861738823812"
+      },
                {
         "subtitle": "Jotchua LJC",
         "xUrl": "https://x.com/BillboardCTO/status/2076170300702556453"
       },
-        
+         {
+        "subtitle": "World",
+        "xUrl": "https://x.com/BillboardCTO/status/2085292065273889082"
+      },
       {
         "subtitle": "Ansem - The Black Bull",
         "xUrl": "https://x.com/BillboardCTO/status/2074382628933779533"
@@ -268,7 +289,24 @@
       33.87438,
       -118.2303949
     ],
-    "billboards": [
+    "billboards": [  {
+        "subtitle": "Streamflow",
+        "xUrl": "https://x.com/BillboardCTO/status/2084565141933179291"
+      },
+      {
+        "subtitle": "Holderscan",
+        "xUrl": "https://x.com/BillboardCTO/status/2084561555677389210"
+      },  {
+        "subtitle": "Mensa",
+        "xUrl": "https://x.com/BillboardCTO/status/2079492448498192463"
+      },   {
+        "subtitle": "Peponk",
+        "xUrl": "https://x.com/BillboardCTO/status/2080729145437221192"
+      },
+      {
+        "subtitle": "Mensa",
+        "xUrl": "https://x.com/BillboardCTO/status/2079454689188339856"
+      },
           {
         "subtitle": "PumpFun",
         "xUrl": "https://x.com/BillboardCTO/status/2076315411998544040"
