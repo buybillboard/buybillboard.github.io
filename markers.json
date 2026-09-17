@@ -1,4 +1,24 @@
 [
+         {
+    "title": "Times Square 4 mega billboards",
+    "position": [
+   40.76405996733202, -73.98269032764841
+    ],
+    "billboards": [
+      {
+        "subtitle": "Heehaw",
+        "xUrl": "https://x.com/billboardcto/status/2098131002002386999"
+      },
+          {
+        "subtitle": "TheUnipcs",
+        "xUrl": "https://x.com/billboardcto/status/2100000535520669913"
+      },
+          {
+        "subtitle": "Fomo",
+        "xUrl": "https://x.com/billboardcto/status/2099996879941468417"
+      }
+    ]
+  },
      {
     "title": "Times Square NYC",
     "position": [
@@ -165,6 +185,9 @@
     ],
     "title": "Atlanta Waffle House",
     "billboards": [
+         {"subtitle": "Bill",
+        "xUrl":              "https://x.com/billboardcto/status/2097783698045235497"
+         },
       {
         "subtitle": "Percolator",
         "xUrl": "https://x.com/BillboardCTO/status/2074411470578688456"
@@ -738,6 +761,10 @@
     ],
     "title": "London-2",
     "billboards": [
+          {
+        "subtitle": "Solana Breapoint 2026",
+        "xUrl": "https://x.com/billboardcto/status/2100605393483260060"
+      },
       {
         "subtitle": "Samba",
         "xUrl": "https://x.com/sambacapybara/status/2046908577923702949"
